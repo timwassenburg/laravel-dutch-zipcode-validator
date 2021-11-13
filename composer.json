@@ -1,0 +1,24 @@
+{
+    "name": "timwassenburg/laravel-dutch-zipcode-validator",
+    "description": "Validate if the given input is a valid Dutch zipcode",
+    "keywords": ["validation", "php", "laravel", "zipcode", "dutch", "postal code"],
+    "homepage": "https://github.com/timwassenburg/laravel-dutch-zipcode-validator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Wassenburg"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TimWassenburg\\DutchZipcodeValidator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TimWassenburg\\DutchZipcodeValidator\\ZipcodeValidatorServiceProvider"
+            ]
+        }
+    }
+}
