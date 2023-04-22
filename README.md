@@ -1,20 +1,10 @@
-<br />
-<div align="center">
-  <a href="https://github.com/timwassenburg/laravel-dutch-zipcode-validator">
-    <img src="img/logo.png" alt="Logo" width=120>
-  </a>
-
-<h1 align="center">Laravel Dutch Zipcode Validator</h1>
-
-  <p align="center">
-    A simple validator package to check if the given zipcode has a valid Dutch zipcode format
-  </p>
-<br><br>
-</div>
+<img src="img/banner.png" alt="Logo">
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/timwassenburg/laravel-dutch-zipcode-validator.svg?style=flat-square)](https://packagist.org/packages/timwassenburg/laravel-dutch-zipcode-validator)
 [![Total Downloads](https://img.shields.io/packagist/dt/timwassenburg/laravel-dutch-zipcode-validator.svg?style=flat-square)](https://packagist.org/packages/timwassenburg/laravel-dutch-zipcode-validator)
 [![License](https://img.shields.io/packagist/l/timwassenburg/laravel-dutch-zipcode-validator)](https://packagist.org/packages/timwassenburg/laravel-dutch-zipcode-validator)
+
+<hr>
 
 ## Table of Contents
   <ol>
